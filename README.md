@@ -17,5 +17,5 @@ You can refer Images folder where all the screenshots of the Azure settings and 
 7. We take the real time data collected by Azure Sentinel and plot it in the world map using Microsoft Workbook.
 8. This map shows the real time attacks carried out from various countries. 
 
-### Thank you😁😁 
+### Thank you😊
 
